@@ -3,7 +3,7 @@
   "description": "React Native JCore component for Android and iOS",
   "homepage": "https://github.com/UnionKeyHQ/jcore-react-native#readme",
   "author": "wicked.tc130",
-  "license": "ISC",
+  "license": "MIT",
   "main": "index.js",
   "version": "2.0.3",
   "repository": {
